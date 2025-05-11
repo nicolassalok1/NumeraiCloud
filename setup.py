@@ -45,7 +45,6 @@ setup(
 
 
 
-
 #executer ça avant le (3) dans le README
 # 1. Installer le moteur Docker
 #sudo apt update
